@@ -14,7 +14,7 @@ I focus on building real-world machine learning systems — not just training mo
 - 🇯🇵 Learning Japanese for global tech opportunities
 
 ---
-
+<img align="right" width="350" src="cool_coding.gif">
 ## 🛠 Tech Stack
 
 **Languages:** Python, SQL  
