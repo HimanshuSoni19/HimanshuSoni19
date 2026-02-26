@@ -16,7 +16,7 @@ AI/ML systems, RAG-based applications, backend-driven ML deployments, and impact
 <img align="right" alt="coding" width="380" src="cool coding.gif"><br>
 
 📫 How to reach me:<br>
-Email: [Gmail/himanshusoni2572@gmail.com](mailto:himanshusoni2572@gmail.com)<br>
+Email: [himanshusoni2572@gmail.com](mailto:himanshusoni2572@gmail.com)<br>
 LinkedIn: [linkedin.com/himanshu-soni](https://www.linkedin.com/in/himanshu-soni-a89113254/))<br>
 GitHub: [github.com/HimanshuSoni19](https://github.com/HimanshuSoni19)<br>
 
