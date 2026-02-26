@@ -16,9 +16,9 @@ AI/ML systems, RAG-based applications, backend-driven ML deployments, and impact
 <img align="right" alt="coding" width="380" src="cool coding.gif"><br>
 
 📫 How to reach me:<br>
-Email: [your_email_here@gmail.com](mailto:your_email_here@gmail.com)<br>
-LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)<br>
-GitHub: [github.com/yourusername](https://github.com/yourusername)<br>
+Email: [Gmail](mailto:himanshusoni2572@gmail.com)<br>
+LinkedIn: [linkedin.com/Himanshu Soni]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/himanshu-soni-a89113254/))<br>
+GitHub: [github.com/HimanshuSoni19](https://github.com/HimanshuSoni19)<br>
 
 
 ## 🌐 Socials:
@@ -37,7 +37,6 @@ GitHub: [github.com/yourusername](https://github.com/yourusername)<br>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 🚀 Featured Projects:
 
@@ -51,6 +50,22 @@ Time-series forecasting using ARIMA, LSTM, and Gradient Boosting with time-based
 Python-driven UI for advanced SQL operations — enabling non-technical users to manage structured data without writing queries.
 
 ---
+
+## 📚 Currently Learning Deeply
+
+- Mathematical foundations of Machine Learning  
+- System design for ML systems  
+- LLM architecture & retrieval pipelines  
+- Backend engineering principles  
+
+---
+
+## 🌏 Long-Term Goal
+
+To design and deploy production-ready AI systems that solve real-world problems at scale, and contribute to high-impact global tech environments.
+
+---
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
