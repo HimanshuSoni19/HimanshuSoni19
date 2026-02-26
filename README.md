@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 👋 Hi, I’m Himanshu Soni<br><br>
 
 🚀 AI/ML Engineer in progress | Backend & Intelligent Systems Builder<br><br>
@@ -16,8 +14,8 @@ AI/ML systems, RAG-based applications, backend-driven ML deployments, and impact
 <img align="right" alt="coding" width="380" src="cool coding.gif"><br>
 
 📫 How to reach me:<br>
-Email: [Gmail](mailto:himanshusoni2572@gmail.com)<br>
-LinkedIn: [linkedin.com/Himanshu Soni]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/himanshu-soni-a89113254/))<br>
+Email: [Gmail/himanshusoni2572@gmail.com](mailto:himanshusoni2572@gmail.com)<br>
+LinkedIn: [linkedin.com/himanshu-soni](https://www.linkedin.com/in/himanshu-soni-a89113254/))<br>
 GitHub: [github.com/HimanshuSoni19](https://github.com/HimanshuSoni19)<br>
 
 
