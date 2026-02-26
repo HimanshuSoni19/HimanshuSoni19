@@ -1,15 +1,17 @@
-👋 Hi, I’m Himanshu Soni<br><br>
+# 👋 Hi, I'm Himanshu Soni
 
-🚀 AI/ML Engineer in progress | Backend & Intelligent Systems Builder<br><br>
+## 🚀 AI/ML Engineer in progress | Backend & Intelligent Systems Builder
 
-🧠 I’m interested in:<br>
-Artificial Intelligence, Machine Learning, Retrieval-Augmented Generation (RAG), Backend Development, System Design, and building production-ready ML systems.<br><br>
+---
 
-🌱 I’m currently learning:<br>
-Advanced ML algorithms from mathematical foundations, LLM architecture, LangChain & vector databases, FastAPI backend systems, and scalable AI pipelines.<br><br>
+### 🧠 Interests
+Artificial Intelligence, Machine Learning, Retrieval-Augmented Generation (RAG), Backend Development, System Design, and building production-ready ML systems.
 
-💞️ I’m looking to collaborate on:<br>
-AI/ML systems, RAG-based applications, backend-driven ML deployments, and impactful open-source projects. If you're building something ambitious, let's connect.<br><br>
+### 🌱 Currently Learning
+Advanced ML algorithms from mathematical foundations, LLM architecture, LangChain & vector databases, FastAPI backend systems, and scalable AI pipelines.
+
+### 💞️ Open to Collaborate On
+AI/ML systems, RAG-based applications, backend-driven ML deployments, and impactful open-source projects. If you're building something ambitious, let’s connect.
 
 <img align="right" alt="coding" width="380" src="cool coding.gif"><br>
 
