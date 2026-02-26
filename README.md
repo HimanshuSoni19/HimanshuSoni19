@@ -1,4 +1,3 @@
-<img align="right" width="300" src="yourgiflink">
 ## 👋 Hi, I'm Himanshu Soni
 
 AI/ML Engineer in progress | Backend + ML Systems Enthusiast  
