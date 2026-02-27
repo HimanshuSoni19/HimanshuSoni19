@@ -13,7 +13,10 @@ Advanced ML algorithms from mathematical foundations, LLM architecture, LangChai
 ### 💞️ Open to Collaborate On
 AI/ML systems, RAG-based applications, backend-driven ML deployments, and impactful open-source projects. If you're building something ambitious, let’s connect.
 
-<img align="right" alt="coding" width="380" src="cool coding.gif"><br>
+<div align="right">
+  <img src="cool coding.gif" width="380" />
+</div>
+<br clear="both"/>
 
 📫 How to reach me:<br>
 Email: [himanshusoni2572@gmail.com](mailto:himanshusoni2572@gmail.com)<br>
